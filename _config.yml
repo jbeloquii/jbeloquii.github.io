@@ -1,18 +1,13 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 title: My Erasmus+ in Finland
 logo: P1060161.JPG
 description: This is Julen's webpage.
-=======
 title: My experience as an Erasmus+ student in Finland
 logo: P1060161.JPG
 description: This is a homepage dedicated to my learning experience in this course.
->>>>>>> cmdline_course
-=======
+cmdline_course
 title: My experience as an Erasmus+ student in Finland
 logo: P1060161.JPG
 description: This is a homepage dedicated to my learning experience in this course.
->>>>>>> cmdline_course
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
