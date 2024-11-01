@@ -46,8 +46,35 @@ _"$ python3"_ is used to run python programs.
 
 In _week 7_, we learned the basics of GitHub and creating a software, and we learned how to use and manage repositories, we used the **git** command which is used with all things related to Github, like **git pull** and **git push**
 
-An essential command to know when using GitHub is _"git commit"_ which confirms the git process.
+An essential command to know when using GitHub is _"git commit"_ which confirms the git process. Thanks to these commands, we can set up pages and add lists, tables and images to our website (see bellow)
 
 ## Conclusions about the course
 
 In conclusion, this course can be quite hard at the beginning for people like me who never learned how programming, but once you get used to it, it can become a smooth and filling experience. Furthermore, the content on moodle was very useful and helpful and has everything we needed in order to learn and pass the quizzes, although it could get stressful at times. Moreover, the teachers were very patient and helpful, as I had a lot of doubts and they helped me without any doubt, either in class or through the Slack forum. As a closing statement, it was a quite hard subject but the teaching method was very effective!
+
+## My favorite foods
+
+* Pasta
+* Lasagna
+* Steak
+* Lasagna
+* Croquetas (spanish dish)
+* Tuna salad
+
+## Weather previsions in Helsinki for the next 5 days
+
+| Temperature  | Weather       | Date  |
+| -------------|:-------------:| -----:|
+| 2º-6º        | Rainy         | 01/11 |
+| 0º-4º        | Parially sunny| 02/11 |
+| 0º-6º        | Rainy         | 03/11 |
+| 0º-5º        | Sunny         | 04/11 |
+| 2º-5º        | Cloudy        | 05/11 |
+
+## Cool images I took of nature
+
+P1050762.JPG
+
+P1050776.JPG
+
+P1050828.JPG
