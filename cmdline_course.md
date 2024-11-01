@@ -71,10 +71,10 @@ In conclusion, this course can be quite hard at the beginning for people like me
 | 0º-5º        | Sunny         | 04/11 |
 | 2º-5º        | Cloudy        | 05/11 |
 
-## Cool images I took of nature
+## Cool images I took of nature with my digital camera
 
-P1050762.JPG
+![-](P1050762.JPG)
 
-P1050776.JPG
+![-](P1050776.JPG)
 
-P1050828.JPG
+![-](P1050828.JPG)
